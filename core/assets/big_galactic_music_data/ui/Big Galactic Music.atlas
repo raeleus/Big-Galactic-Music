@@ -1,0 +1,81 @@
+
+Big Galactic Music.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 743, 920
+  size: 266, 89
+  split: 41, 41, 1, 1
+  pad: 15, 15, 3, 3
+  orig: 266, 89
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 464, 753
+  size: 266, 89
+  split: 41, 41, 1, 1
+  pad: 15, 15, 3, 3
+  orig: 266, 89
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 1, 286
+  size: 266, 89
+  split: 41, 41, 1, 1
+  pad: 15, 15, 3, 3
+  orig: 266, 89
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 377
+  size: 461, 465
+  orig: 461, 465
+  offset: 0, 0
+  index: -1
+font-small-export
+  rotate: false
+  xy: 1, 44
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 844
+  size: 740, 165
+  orig: 740, 165
+  offset: 0, 0
+  index: -1
+scroll-horizontal
+  rotate: false
+  xy: 269, 358
+  size: 51, 17
+  split: 8, 8, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+scroll-vertical
+  rotate: false
+  xy: 464, 700
+  size: 17, 51
+  split: 0, 0, 7, 7
+  pad: 0, 0, 0, 0
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 743, 848
+  size: 71, 70
+  split: 15, 15, 15, 14
+  pad: 2, 2, 3, 3
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
